@@ -1,0 +1,1 @@
+# ddev-htaccess-https-redirect-error
